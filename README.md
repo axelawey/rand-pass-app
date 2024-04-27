@@ -11,7 +11,7 @@ This is a simple HTML-based Python Random Password Generator. It generates stron
 
 - **Customizable Length:** You can choose the length of the generated password.
 - **Character Sets:** Choose whether to include uppercase letters, lowercase letters, numbers, and symbols.
-- **Copy to Clipboard:** Easily copy the generated password to your clipboard with a single click.
+
 
 ## How to Use
 
